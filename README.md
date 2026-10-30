@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Study Sync
 
 Study Sync is a responsive YouTube playlist length calculator with speed estimates, a study planner, local watch progress, and iCalendar export.
@@ -62,3 +63,6 @@ Use `npm run build` to type-check and create the production bundle.
 - Google Calendar event drafts for individual sessions, a bulk `.ics` import, and an optional live subscription feed. Events are titled `Session N of M · HH:MM:SS` and include numbered videos, timestamped video segments, watch-time estimates, YouTube links, and a link back to the playlist plan.
 
 Individual Google Calendar links open a prefilled event draft; sign in if prompted, review the event, and save it. To add the full plan once, use **Add all sessions to Google Calendar**, then choose the downloaded `.ics` file on Google Calendar's import page. A Google API key alone cannot write events to a user's calendar. Live subscriptions use the public read-only feed described above; they do not require Calendar API or OAuth credentials.
+=======
+# Study-synk
+>>>>>>> 759257647d9ed4c77ebd1d6b6ed3e63db1731d52

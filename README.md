@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Study Sync
 
 Study Sync is a responsive YouTube playlist length calculator with speed estimates, a study planner, local watch progress, and iCalendar export.
